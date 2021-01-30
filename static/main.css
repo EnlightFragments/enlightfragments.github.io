@@ -1,0 +1,277 @@
+:root {
+  --color-bg: #e8e8e8;
+  --color-bg-content: #d4d4d4;
+  --color-text: #2e2e2e;
+  --color-date: #525252;
+}
+
+/** Reset some basic elements */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+/** Basic styling */
+body {
+  font:
+    400 16px/1.5 -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  background-color: rgba(12, 12, 12, 0.81);
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
+.highlight {
+  margin-bottom: 15px;
+}
+
+/** `main` element */
+main {
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+}
+
+/** Images */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/** Figures */
+figure > img {
+  display: block;
+}
+
+figcaption {
+  font-size: 14px;
+}
+
+/** Lists */
+ul,
+ol {
+  margin-left: 30px;
+}
+
+li > ul,
+li > ol {
+  margin-bottom: 0;
+}
+
+/** Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+/** Links */
+a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #2a7ae2;
+}
+
+a:hover {
+  color: #03459b;
+  text-decoration: underline;
+}
+
+/** Wrapper */
+.wrapper {
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    max-width: -webkit-calc(800px - (30px));
+    max-width: calc(800px - (30px));
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+/** Site header */
+.site-header {
+  min-height: 55.95px;
+  justify-content: center;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.site-title {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 60px;
+  letter-spacing: -1px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .site-title {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 375px) {
+  .site-title {
+    font-size: 20px;
+  }
+}
+
+/** Site footer */
+.site-footer {
+  font-size: 15px;
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+  background: var(--color-bg-content);
+}
+
+.rss {
+  font-size: 16px;
+  display: block;
+  margin-inline-start: auto;
+}
+
+.rss-svg {
+  width: 12px;
+  height: 12px;
+}
+
+.site-footer .wrapper {
+  flex-grow: 1;
+}
+
+.footer-line {
+  display: flex;
+  gap: 1rem;
+  min-width: 0;
+}
+
+.links {
+  list-style: none;
+  margin-left: 0;
+}
+
+/** Page content */
+.page-content {
+  padding: 30px 0;
+  flex: 1;
+}
+
+.page-heading {
+  font-size: 32px;
+}
+
+.post-list-heading {
+  font-size: 28px;
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+}
+
+.post-list > li {
+  margin-bottom: 45px;
+}
+
+.post-meta {
+  padding-bottom: 10px;
+  font-size: 14px;
+  color: var(--color-date);
+}
+
+/** Posts */
+.post-header {
+  margin-bottom: 30px;
+}
+
+.post-title {
+  margin-bottom: 14px;
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+  .post-title {
+    font-size: 20.8px;
+  }
+}
+
+.text-column {
+  padding-top: 20px;
+  background: var(--color-bg-content);
+  margin: 0 10px;
+}
+
+.page-content {
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.about-separator {
+  margin-bottom: 40px;
+}

@@ -15,5 +15,8 @@ Most of us will choose to create our egos and stop here. The only thing left to 
 instead of "What I want to do?".
 
 3. It helps a lot when you understand your own intentions.
-That's when you stop to think about yourself as an overgrown experemental rat.
+That's when you stop to think about yourself as an overgrown experimental rat.
+
+4. Take a look at what you see every day and ask yourself on what it is all about? Which mechanisms it supposed to trigger?
+And the world doesn't seem so boring anymore. Seems like the biggest mystery.
 

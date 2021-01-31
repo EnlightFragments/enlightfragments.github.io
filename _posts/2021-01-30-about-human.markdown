@@ -14,7 +14,7 @@ Most of us will choose to create our egos and stop here. The only thing left to 
 2. Having inflated ego makes it much harder to do what you want. It makes you think "What should I do to be better?"
 instead of "What I want to do?".
 
-3. It helps a lot when you understand your own intentions.
+3. It helps a lot when you understand your own intentions. Coverted motives.
 That's when you stop to think about yourself as an overgrown experimental rat.
 
 4. Take a look at what you see every day and ask yourself on what it is all about? Which mechanisms it supposed to trigger?

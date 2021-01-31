@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Act of Creation"
+date:   2021-01-30 14:35:18 +0300
+categories: thoughts
+hidden: true
+---
+
+1. This is the construction I've created.

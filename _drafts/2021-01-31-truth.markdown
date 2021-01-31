@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Truth"
+date:   2021-01-30 14:35:18 +0300
+categories: thoughts
+hidden: true
+---
+
+1. Anything could look like truth.

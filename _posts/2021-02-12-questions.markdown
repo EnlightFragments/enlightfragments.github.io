@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Questions"
+date:   2021-02-12 20:00:00 +0300
+---
+
+Every question has exactly two opinions.

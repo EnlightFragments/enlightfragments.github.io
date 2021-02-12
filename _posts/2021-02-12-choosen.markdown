@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Choosen"
+date:   2021-02-12 20:00:00 +0300
+---
+
+There's no such thing as choosen one.

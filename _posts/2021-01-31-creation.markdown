@@ -6,4 +6,4 @@ categories: thoughts
 hidden: true
 ---
 
-1. This is the construction I've created.
+This is the construction I've created.

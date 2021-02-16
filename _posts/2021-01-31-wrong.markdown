@@ -6,5 +6,5 @@ categories: thoughts
 hidden: true
 ---
 
-1. Let's say there is some judgement which you think is wrong.
+Let's say there is some judgement which you think is wrong.
 Then what is it, the invisibel force, which make you think so?

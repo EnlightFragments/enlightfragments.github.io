@@ -12,7 +12,7 @@ when most of us will forget this is the last time they got chance to do somethin
 Most of us will choose to create our egos and stop here. The only thing left to do then is to inflate it as high as possible.
 
 2. Having inflated ego makes it much harder to do what you want. It makes you think "What should I do to be better?"
-instead of "What I want to do?".
+instead of "What do I want?".
 
 3. It helps a lot when you understand your own intentions. Coverted motives.
 That's when you stop to think about yourself as an overgrown experimental rat.

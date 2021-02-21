@@ -21,10 +21,10 @@
 title: Enlight Fragments
 email: enlightfragments@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website doesn't do anything too practical.
+  This website is depersonalized and processed list my ideas worth mentioning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: G-15EJLSFS52 
+google_analytics: G-15EJLSFS52
 
 # Build settings
 theme: minima

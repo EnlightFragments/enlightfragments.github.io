@@ -7,4 +7,4 @@ hidden: true
 ---
 
 Let's say there is some judgement which you think is wrong.
-Then what is it, the invisibel force, which make you think so?
+Then what is it, the invisible force, which make you think so?

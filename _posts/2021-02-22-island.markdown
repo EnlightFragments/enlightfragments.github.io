@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Island"
+date:   2021-02-22 20:00:00 +0300
+---
+
+Self contained idea can not live.
+But we choose to live on the island.

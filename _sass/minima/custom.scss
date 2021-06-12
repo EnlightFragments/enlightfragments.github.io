@@ -1,0 +1,41 @@
+.body {
+  &::before {
+    pointer-events: none;
+    position: fixed;
+    top: 0;
+    content: "";
+    width: 100vw;
+    height: 100vh;
+    background: url(/assets/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  & > * {
+    z-index: 1;
+  }
+}
+
+.text-column {
+  padding-top: 20px;
+  background: $background-color;
+  margin: 0 10px;
+}
+
+.page-content {
+  display: flex;
+  justify-content: center;
+}
+
+.site-header {
+  display: flex;
+  justify-content: center;
+  background: $background-color;
+}
+
+.site-footer {
+  display: flex;
+  justify-content: center;
+  background: $background-color;
+}

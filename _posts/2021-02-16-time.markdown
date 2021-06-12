@@ -5,6 +5,4 @@ date:   2021-02-16 20:00:00 +0300
 ---
 
 Imagine there's no time.
-Could we consider ourselves alive then?
-
-Tomorrow is today.
+Could we consider ourselves alive then? If tomorrow is today.

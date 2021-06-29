@@ -6,7 +6,7 @@
     content: "";
     width: 100vw;
     height: 100vh;
-    background: url(/assets/bg.jpg);
+    background: url(/assets/bg-1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -31,13 +31,15 @@
 .site-header {
   display: flex;
   justify-content: center;
-  background: $background-color;
+  background: #000;
+  text-transform: uppercase;
+  color: #A0A0A0;
 }
 
 .site-footer {
   display: flex;
   justify-content: center;
-  background: $background-color;
+  background: #000;
 
   .wrapper {
     flex-grow: 1;

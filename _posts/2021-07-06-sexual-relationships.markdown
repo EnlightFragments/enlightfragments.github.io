@@ -15,3 +15,6 @@ You will be born anyway. If you want it, is irrelevant.
 You will be born anyway. This is not your decision. 
 
 We are forced to have our own experiences, and it always starts again.
+
+It's obvious that hot ones will get laid, because this is how nature works.
+This not not the challenge. The challenge is to find someone who will decide to stay.

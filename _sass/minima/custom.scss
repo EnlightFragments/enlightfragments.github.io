@@ -1,19 +1,14 @@
 .body {
-  &::before {
-    pointer-events: none;
+  &__bg {
+    z-index: 1;
     position: fixed;
     top: 0;
-    content: "";
     width: 100vw;
     height: 100vh;
-    background: url(/assets/bg-1.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
   }
 
   & > * {
-    z-index: 1;
+    z-index: 2;
   }
 }
 

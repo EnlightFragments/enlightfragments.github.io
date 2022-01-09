@@ -2,9 +2,16 @@
   &__bg {
     z-index: 1;
     position: fixed;
-    top: 0;
+    top: 50%;
+    transform: translateY(-50%);
     width: 100vw;
     height: 100vh;
+
+  }
+
+  &__img {
+    min-height: 100vh;
+    min-width: 100vw;
   }
 
   & > * {

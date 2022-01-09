@@ -4,7 +4,11 @@
   {%- include head.html -%}
 
   <body class="body">
-    <img class="body__bg" src="/assets/bg-1.jpg">
+
+    <picture class="body__bg">
+      <source class="body__img" src="/assets/bg-1.webp" type="image/webp">
+      <img class="body__img" srcset="/assets/bg-1.jpg" alt="Fluid">
+    </picture>
 
     {%- include header.html -%}
 

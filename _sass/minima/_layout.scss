@@ -104,7 +104,7 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit * 2.5;
+    margin-bottom: $spacing-unit * 1.5;
   }
 }
 
@@ -123,13 +123,13 @@
 
 .post-title {
   margin-bottom: 14px;
-  @include relative-font-size(1.4);
+  @include relative-font-size(1.5);
   letter-spacing: -1px;
   line-height: 1;
   text-align: center;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(1.7);
+    @include relative-font-size(1.3);
   }
 }
 

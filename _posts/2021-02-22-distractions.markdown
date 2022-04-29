@@ -4,8 +4,6 @@ title:  "Distractions"
 date:   2021-02-22 20:00:00 +0300
 ---
 
-When attention shifts constantly.
-Seeking distractions from yourself gets you closer to one day
-there will be no you, and it's like you never was.
-And this is the path well discovered.
+Attention shift takes place more often. Seeking distractions from self gets closer
+to evaporation of self. Soon there 'll be no self, and like it never was.
 Living like this is like you're already dead.

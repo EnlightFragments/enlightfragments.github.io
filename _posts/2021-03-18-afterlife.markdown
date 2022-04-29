@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Afterlife"
+title:  "After life"
 date:   2021-02-22 21:00:00 +0300
 ---
 
-When we die, something changes. To nothing?
+When we die, something changes to nothing.
 "Nothing" is devastating word that represents devoid of imaginable.
-This is where we go then.
+And this is where we go then.

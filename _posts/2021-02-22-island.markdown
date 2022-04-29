@@ -4,5 +4,5 @@ title:  "Island"
 date:   2021-02-22 20:00:00 +0300
 ---
 
-Self contained idea lives on the informational island.
-It drains itself.
+Isolated idea lives on the informational island.
+It can't support itself.

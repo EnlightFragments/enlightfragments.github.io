@@ -9,4 +9,3 @@ And it was not your decision.
 Your body isn't really yours, your soul isn't really in your head, your life
 does not really belong to you.
 All your property isn't really yours either.
-It will be gone some day.

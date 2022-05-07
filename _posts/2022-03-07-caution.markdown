@@ -4,5 +4,5 @@ title:  "Caution"
 date:   2022-03-07 21:00:00 +0300
 ---
 
-Be careful to say what you think about them, because in fact it reveals more
-about you than about them.
+Be careful to say what you think about them, because in fact it reveals a lot
+about you.

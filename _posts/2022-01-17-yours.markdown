@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your"
+title:  "Yours"
 date:   2022-01-17 21:30:00 +0300
 ---
 
@@ -9,4 +9,4 @@ And it was not your decision.
 Your body isn't really yours, your soul isn't really in your head, your life
 does not really belong to you.
 All your property isn't really yours either.
-Ownership is nothing but a safeguard for thing which are not yours.
+Ownership is nothing but a safeguard for things which are not yours.

@@ -5,7 +5,7 @@ date:   2021-01-30 14:35:18 +0300
 ---
 
 We aspire for prefection, that we drew to ourelves.
-We are an perfect idea, which claims to be "outside looking in".
+We are an perfect idea. Declared ourselves "from the outside looking in".
 We will draw every path we can imagine.
 We will be sucked into life long competition, from start to finish.
 That's when we forget who we are, and importance of our will.

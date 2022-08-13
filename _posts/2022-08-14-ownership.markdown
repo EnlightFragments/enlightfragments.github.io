@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ownership"
-date:   2022-08-14 01:00:00 +0300
+date:   2022-08-14 00:00:00 +0300
 ---
 
 Given that your life doesn't really belong to you is terrifying idea at first.

@@ -9,5 +9,5 @@ It's easy to convince yourself that allmighty machines will do anything for us.
 That's true, but we should speak their language. Formal language of routine,
 converted to format of processor.
 Learning, however, is not a routine. It does not conform to formal rules.
-That's why machine will never be able to learn. All we can get is deterministic approximation
-of learning at best.
+That's why machine will never be able to learn. Deterministic approximation
+of learning is all we can get here.

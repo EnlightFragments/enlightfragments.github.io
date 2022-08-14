@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life path"
+title:  "Conversations about life"
 date:   2021-10-03 23:00:00 +0300
 ---
 

@@ -9,7 +9,7 @@ We are an perfect idea. Declared ourselves "from the outside looking in".
 We will draw every path we can imagine.
 We will be sucked into life long competition, from start to finish.
 That's when we forget who we are, and importance of our will.
-We will create our egos and live with it.
+We choose to create our egos and live with it.
 Then we'll inflate it as high as we can.
 
 Which makes it much harder to follow our will.
@@ -19,6 +19,7 @@ instead of "What do I want?".
 It helps a lot when you understand your own intentions, coverted motives.
 That's when you really start to think.
 
-Just take a look at what you see every day and ask yourself on what it is all about?
-Which intention it supposed to have? Does it conform with your intentions?
-And the life doesn't seem so boring anymore. There's a lot ...
+Take a look at what you see every day and ask yourself on what it is all about?
+Which intention it supposed to have?
+Does it conform with your intentions?
+Then life won't be so boring anymore.

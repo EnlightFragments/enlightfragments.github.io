@@ -4,5 +4,4 @@ title:  "Words"
 date:   2021-02-16 20:00:00 +0300
 ---
 
-These are the only creatures which will last forever.
-It's limited, but that's all we have.
+These are the only creatures which will last forever. That's all we have.

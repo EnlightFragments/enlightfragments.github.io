@@ -4,4 +4,4 @@ title:  "Outlet"
 date:   2021-08-16 00:00:00 +0300
 ---
 
-When there's no outlet for the worst, then it will just accumulate here.
+When there's no outlet for the worst, then it will just accumulate here until the limit reached.

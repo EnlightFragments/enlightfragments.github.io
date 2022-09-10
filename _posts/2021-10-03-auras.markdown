@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Auroras"
+title:  "Auras"
 date:   2021-10-03 23:00:00 +0300
 ---
 
-Notice auroras around some people.
+Notice auras around some people.

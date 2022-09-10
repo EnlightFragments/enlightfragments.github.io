@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Island"
-date:   2021-02-22 20:00:00 +0300
----
-
-Isolated idea lives on the informational island.
-It can't support itself.

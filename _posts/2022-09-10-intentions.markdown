@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intensions"
+title:  "Intentions"
 date:   2022-09-10 21:30:00 +0300
 ---
 

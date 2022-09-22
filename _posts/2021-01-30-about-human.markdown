@@ -16,10 +16,10 @@ Which makes it much harder to follow our will.
 It makes us think "What should I do to get better?"
 instead of "What do I want?".
 
-It helps a lot when you understand your own intentions, coverted motives.
+It helps a lot when you understand your own intensions, coverted motives.
 That's when you really start to think.
 
 Take a look at what you see every day and ask yourself on what it is all about?
 Which intention it supposed to have?
-Does it conform with your intentions?
+Does it conform with your intensions?
 Then life won't be so boring anymore.

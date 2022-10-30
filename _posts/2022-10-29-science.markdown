@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Science"
-date:   2022-10-30 23:30:00 +0300
+date:   2022-10-29 23:30:00 +0300
 ---
 
 Destiny of science is not to explain, but to make world better.

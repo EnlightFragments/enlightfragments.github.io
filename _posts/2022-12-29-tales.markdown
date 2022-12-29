@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Tales"
+date:   2022-12-29 23:00:00 +0300
+---
+
+Beautiful tale is easier to believe in.
+

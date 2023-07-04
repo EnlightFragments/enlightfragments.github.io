@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emotional prison"
+title:  "Mental prison"
 date:   2022-10-22 23:30:00 +0300
 ---
 

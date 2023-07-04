@@ -8,4 +8,4 @@ But it goes everlasting, meaningless void. Join the flow with us.
 We will guide you to your inevitable defeat, just like it meant to be.
 We'll make you forget who you are, you will lose yourself, and lead you
 to the place we've reserved just for you. You just have to obey.
-Be obedient in company.
+Be obedient among the rest.

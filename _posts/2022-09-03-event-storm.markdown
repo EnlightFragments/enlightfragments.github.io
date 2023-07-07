@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corellation"
+title:  "Event storm"
 date:   2022-09-03 10:30:00 +0300
 ---
 

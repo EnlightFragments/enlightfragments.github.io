@@ -4,4 +4,4 @@ title:  "Happiness"
 date:   2022-08-14 00:00:00 +0300
 ---
 
-Happy human can only be dead. It's wonderful to be unhappy.
+Happy human is as good as dead. It's wonderful to feel unhappy.

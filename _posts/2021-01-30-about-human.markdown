@@ -4,9 +4,9 @@ title:  "About Human"
 date:   2021-01-30 14:35:18 +0300
 ---
 
-We aspire for prefection, that we drew to ourelves.
+We aspire for prefection, which we drew to ourelves.
 We are an perfect idea.
-Priviliged to think that we are able to look inside from the outside.
+Priviliged to think that we are able to look inside ourselves from the outside.
 We will draw every path we can imagine.
 We will be sucked into life long competition, from start to finish.
 That's when we forget who we are, and importance of our will.
@@ -14,7 +14,7 @@ We choose to create our egos and live with it.
 Then we'll inflate it as high as we can.
 
 Which makes it much harder to follow our will.
-It makes us think "What should I do to get better?"
+It makes us think "What should I do to progress?"
 instead of "What do I want?".
 
 It helps a lot when you understand your own intentions, coverted motives.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Panic attack"
+title:  "Everyday life"
 date:   2023-06-22 22:00:00 +0300
 ---
 

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Time"
-date:   2021-02-16 20:00:00 +0300
----
-
-Time is existentially important for modern soul.
-It can't live without it in any sense.
-There's no hurry when tomorrow is today.

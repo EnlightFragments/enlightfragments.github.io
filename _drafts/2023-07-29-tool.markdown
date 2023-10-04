@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Tool"
-date:   2023-08-06 17:00:00 +0300
----
-
-Object does not meet the needs by itself, object is an intermediate form, a tool.
-

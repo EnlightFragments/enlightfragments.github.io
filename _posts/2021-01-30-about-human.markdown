@@ -4,7 +4,7 @@ title:  "About Human"
 date:   2021-01-30 14:35:18 +0300
 ---
 
-We aspire for prefection, which we drew to ourelves.
+We aspire for perfection, which we drew to ourelves.
 We are an perfect idea.
 Privileged to think that we are able to look inside ourselves from the outside.
 We will draw every path we can imagine.

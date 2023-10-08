@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Uniqueness"
+title:  "Uniqueness in the extreme"
 date:   2022-01-09 11:00:00 +0300
 ---
 

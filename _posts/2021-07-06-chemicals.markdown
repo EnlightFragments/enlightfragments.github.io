@@ -4,11 +4,11 @@ title:  "Chemicals"
 date:   2021-06-29 23:00:00 +0300
 ---
 
-Human tends to humanize relationships in any known concept, because it helps to understand.
+Human tends to personify relationships in any known concept, because it helps to understand.
 
 But sometimes the process goes the other way around.
 
-Molecules have no reason, dehumanized, and so we are.
+Molecules have no reason, depersonified, and so we are.
 
 The world has represented itself to us as chemicals, all that's left for us is to do the same.
 

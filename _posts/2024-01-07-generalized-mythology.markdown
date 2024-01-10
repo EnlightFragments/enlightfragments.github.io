@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mythology"
+title:  "Generalized mythology"
 date:   2024-01-07 12:00:00 +0300
 ---
 

@@ -5,7 +5,7 @@ date:   2023-12-30 11:00:00 +0300
 ---
 
 Being a word of a negative flavour, ideology is still unavoidable.
-It has calming purpose, because it allowes to tell where you are and who you are.
+It has calming purpose, because it allows to tell where you are and who you are.
 These questions can get answers only inside some system of ideas.
 Answers to these questions form a worldview.
 
@@ -21,6 +21,7 @@ Answers to these questions form a worldview.
 - being melancholic in the list of psychotypes
 - being cristian in the world created by God
 - being exploited in the capitalistic system
+
 
 Rich or poor, beautiful or ugly, it's still calming to at least know who you are,
 so that you won't live in the complicated world, where nothing particular can be said,

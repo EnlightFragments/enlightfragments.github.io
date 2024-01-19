@@ -8,4 +8,4 @@ Even when empty space is given, and making laws is all allowed,
 we are not free, because we were put into environment, which enforces empty space,
 obliges us to do certain task, and any law we'll come up with should not
 contradict to empty space and all the laws it will have, since contradictory laws
-destroy everything we have here.
+destroy every sense.

@@ -6,7 +6,7 @@ date:   2023-12-30 11:00:00 +0300
 Ideology is unavoidable.
 It tells you who you are, where you are and what you have to do.
 
-It doesn't matter if you're ritch or poor, beautiful or ugly.
+It doesn't matter if you're rich or poor, beautiful or ugly.
 It's still calming to at least know who you are and where you are,
 so that you won't end up living in the complicated world,
 where nothing certain can be said for sure,

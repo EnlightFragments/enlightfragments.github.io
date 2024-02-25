@@ -10,10 +10,12 @@
       <img class="body__img" srcset="/assets/bg-1.jpg" alt="Fluid">
     </picture>
 
-    {%- include header.html -%}
-
     <main class="page-content" aria-label="Content">
       <div class="text-column wrapper">
+        {%- include header.html -%}
+
+        <hr class="post-separator">
+
         {{ content }}
       </div>
     </main>

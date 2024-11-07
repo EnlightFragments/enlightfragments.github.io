@@ -4,7 +4,7 @@ title:  "Mechanics"
 date:   2024-04-14 21:30:00 +0300
 ---
 
-We are thinging in mechanics, but never notice it.
+We are thinking in mechanics, but never notice it.
 
 Mechanics of ownership: "every thing has a connection to someone, who we call owner.
 Owner has right for making decisions, on how to use object of ownership."

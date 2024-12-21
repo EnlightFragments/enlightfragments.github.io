@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "About Human"
 date:   2021-01-30 14:35:18 +0300
 ---

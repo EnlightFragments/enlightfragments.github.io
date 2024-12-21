@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Veganism"
 date:   2023-07-15 14:30:00 +0300
 ---

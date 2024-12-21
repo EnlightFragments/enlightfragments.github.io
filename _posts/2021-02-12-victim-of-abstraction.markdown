@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Victim of abstraction"
 date:   2021-02-12 20:00:00 +0300
 ---

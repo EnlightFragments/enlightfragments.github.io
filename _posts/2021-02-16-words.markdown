@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Words"
 date:   2021-02-16 20:00:00 +0300
 ---

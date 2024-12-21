@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Desires"
 date:   2024-06-30 15:22:00 +0300
 ---

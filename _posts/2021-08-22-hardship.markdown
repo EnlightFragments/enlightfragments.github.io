@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hardship"
 date:   2021-08-22 22:20:00 +0300
 ---

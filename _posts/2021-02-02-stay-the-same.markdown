@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Stay the same"
 date:   2021-02-02 16:00:00 +0300
 ---

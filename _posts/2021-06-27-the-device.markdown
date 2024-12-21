@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Device"
 date:   2021-06-27 23:00:00 +0300
 ---

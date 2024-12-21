@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Theory of everything"
 date:   2021-01-31 14:35:18 +0300
 ---

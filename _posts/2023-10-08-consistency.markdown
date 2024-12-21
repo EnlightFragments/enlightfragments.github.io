@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Freedom"
 date:   2023-10-08 23:30:00 +0300
 ---

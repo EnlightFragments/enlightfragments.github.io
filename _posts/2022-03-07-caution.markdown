@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Caution"
 date:   2022-03-07 21:00:00 +0300
 ---

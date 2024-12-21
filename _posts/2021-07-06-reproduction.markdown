@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Reproduction"
 date:   2021-06-29 23:00:00 +0300
 ---

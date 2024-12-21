@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Rules of perception"
 date:   2023-06-29 20:00:00 +0300
 ---

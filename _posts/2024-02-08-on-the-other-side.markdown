@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "On the other side"
 date:   2024-02-08 23:00:00 +0300
 ---

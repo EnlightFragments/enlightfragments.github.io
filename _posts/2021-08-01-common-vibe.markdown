@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Common vibe"
 date:   2021-08-02 00:00:00 +0300
 ---

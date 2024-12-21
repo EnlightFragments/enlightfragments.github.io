@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Self"
 date:   2023-08-06 17:00:00 +0300
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Explanations"
 date:   2021-01-31 0:25:00 +0300
 ---

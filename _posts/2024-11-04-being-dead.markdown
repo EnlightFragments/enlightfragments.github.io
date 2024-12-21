@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Being dead"
 date:   2024-11-04 22:30:00 +0300
 ---

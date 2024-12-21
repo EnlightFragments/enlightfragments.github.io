@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Chills"
 date:   2023-08-29 23:30:00 +0300
 ---

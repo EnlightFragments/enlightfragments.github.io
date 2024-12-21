@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Independent thinking"
 date:   2021-10-03 23:00:00 +0300
 ---

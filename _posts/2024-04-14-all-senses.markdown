@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "All senses"
 date:   2024-04-14 21:30:00 +0300
 ---

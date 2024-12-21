@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ownership"
 date:   2022-01-17 21:30:00 +0300
 ---

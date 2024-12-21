@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Reading activity"
 date:   2023-07-15 13:30:00 +0300
 ---

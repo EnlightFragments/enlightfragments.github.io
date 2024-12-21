@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Smartness"
 date:   2022-12-29 23:00:00 +0300
 ---

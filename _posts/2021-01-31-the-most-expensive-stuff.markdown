@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The most expensive stuff"
 date:   2021-01-31 0:25:00 +0300
 ---

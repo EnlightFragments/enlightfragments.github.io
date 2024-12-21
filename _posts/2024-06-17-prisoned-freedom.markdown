@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Prisoned freedom"
 date:   2024-06-17 21:25:00 +0300
 ---

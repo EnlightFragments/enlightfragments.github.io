@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Artificial Intelligence"
 date:   2022-07-10 01:00:00 +0300
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The hardest problem"
 date:   2023-12-30 11:00:00 +0300
 ---

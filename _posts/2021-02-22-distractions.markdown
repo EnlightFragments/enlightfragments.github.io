@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Distractions"
 date:   2021-02-22 20:00:00 +0300
 ---

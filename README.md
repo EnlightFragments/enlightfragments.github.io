@@ -1,5 +1,5 @@
 # Development
 
 ```
-docker compose up
+http-server ./
 ```

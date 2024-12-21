@@ -1,6 +1,0 @@
----
-title:  "Observer"
-date:   2023-06-29 21:00:00 +0300
----
-
-Fraining from participation gives a chance to notice ignored details.

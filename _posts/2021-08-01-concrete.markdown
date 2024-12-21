@@ -1,7 +1,0 @@
----
-title:  "Concrete"
-date:   2021-08-02 00:00:00 +0300
----
-
-There are always concrete things to talk about.
-Otherwise there's not much to talk about.

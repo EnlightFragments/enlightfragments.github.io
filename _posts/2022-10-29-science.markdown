@@ -1,6 +1,0 @@
----
-title:  "Science"
-date:   2022-10-29 23:30:00 +0300
----
-
-The final destiny of science is not necessarily to explain, but to make lives better.

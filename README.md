@@ -1,5 +1,5 @@
 # Development
 
 ```
-http-server ./
+hugo server -D
 ```

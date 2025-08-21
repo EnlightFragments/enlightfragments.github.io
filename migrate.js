@@ -8,5 +8,6 @@ const { document } = (new JSDOM(content)).window;
 const articles = document.getElementsByTagName("li");
 
 for (let article of articles) {
-    console.log(article)
+    const title = article.children[0];
+    console.log(title.innerHTML)
 }

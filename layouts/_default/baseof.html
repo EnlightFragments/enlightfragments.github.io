@@ -1325,26 +1325,17 @@
               <div class="post-meta">Jul 30, 2025</div>
               <hr class="post-separator" />
             </li>
-            <li>
-              <h2 class="post-title">Flying Elephants</h2>
-              <p>
-                When a "mosquito" is repeatedly referred to as an "elephant",
-                we enter a surrealistic realm where elephants can fly.
-              </p>
-              <div class="post-meta">Aug 10, 2025</div>
-              <hr class="post-separator" />
-            </li>
-            <li>
-              <h2 class="post-title">The Definition of Life</h2>
-              <p>
-                Machine is dead, because we fully understand its mechanics.
-                Human is mostly dead, because we pretty much understand its
-                mechanics too. But shadow of the doubt has always followed
-                us, keeping us alive.
-              </p>
-              <div class="post-meta">Aug 20, 2025</div>
-              <hr class="post-separator" />
-            </li>
+
+            {{ range  .Site.Pages }}
+              {{ range .Pages }}
+                <li>
+                  <h2 class="post-title">{{ .Title }}</h2>
+                  {{ .Content }}
+                  <div class="post-meta">{{ .Params.date }}</div>
+                  <hr class="post-separator" />
+                </li>
+              {{ end }}
+            {{ end }}
           </ul>
         </div>
       </div>

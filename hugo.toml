@@ -13,3 +13,8 @@ disableKinds = ["taxonomy", "term"]
 
 [outputs]
   home = ['html', 'rss']
+
+
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "rss"

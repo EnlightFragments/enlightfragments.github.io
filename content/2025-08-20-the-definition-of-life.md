@@ -1,7 +1,6 @@
 ---
 title: The Definition of Life
-params:
-    date: Aug 20, 2025
+publishDate: 2025-08-20T00:00:00-00:00
 ---
 
 Machine is dead, because we fully understand its mechanics.

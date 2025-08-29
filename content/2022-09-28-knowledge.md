@@ -1,8 +1,7 @@
 
 ---
 title: Knowledge
-params:
-    date: Sep 28, 2022
+publishDate: 2022-09-28T00:00:00-00:00
 ---
 
 The more we know, the less sense it makes.

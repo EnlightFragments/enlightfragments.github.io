@@ -34,11 +34,11 @@
           <hr class="about-separator" />
 
           <ul class="post-list">
-            {{ range sort .Pages "File.Path" }}
+            {{ range sort .Pages "PublishDate" }}
               <li>
                 <h2 class="post-title">{{ .Title }}</h2>
                 {{ .Content }}
-                <div class="post-meta">{{ .Params.date }}</div>
+                <div class="post-meta">{{ .PublishDate | time.Format ":date_medium" }}</div>
                 <hr class="post-separator" />
               </li>
             {{ end }}

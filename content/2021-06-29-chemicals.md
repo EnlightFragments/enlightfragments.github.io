@@ -1,8 +1,7 @@
 
 ---
 title: Chemicals
-params:
-    date: Jun 29, 2021
+publishDate: 2021-06-29T00:00:00-00:00
 ---
 
  Human tends to antropomorphize relationships in any known concept, because it helps to understand.

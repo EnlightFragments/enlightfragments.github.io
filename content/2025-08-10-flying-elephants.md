@@ -1,7 +1,6 @@
 ---
 title: Flying Elephants
-params:
-    date: Aug 10, 2025
+publishDate: 2025-08-10T00:00:00-00:00
 ---
 
 When a "mosquito" is repeatedly referred to as an "elephant",

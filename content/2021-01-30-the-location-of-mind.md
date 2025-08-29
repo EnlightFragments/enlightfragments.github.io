@@ -1,8 +1,7 @@
 
 ---
 title: The location of mind
-params:
-    date: Jan 30, 2021
+publishDate: 2021-01-30T00:00:00-00:00
 ---
 
 Noone knows where conscience dwells.

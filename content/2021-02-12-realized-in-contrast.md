@@ -1,8 +1,7 @@
 
 ---
 title: Realized in contrast
-params:
-    date: Feb 12, 2021
+publishDate: 2021-02-12T00:00:00-00:00
 ---
 
 The universe would not be cold if no warmth existed.

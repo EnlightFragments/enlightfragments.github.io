@@ -1,8 +1,7 @@
 
 ---
 title: Oversimplification
-params:
-    date: Sep 10, 2022
+publishDate: 2022-09-10T00:00:00-00:00
 ---
 
 Nothing is just a thing.

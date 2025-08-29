@@ -1,8 +1,7 @@
 
 ---
 title: The Paradox of Creation
-params:
-    date: Oct 21, 2023
+publishDate: 2023-10-21T00:00:00-00:00
 ---
 
 If God created everything, who created God then?

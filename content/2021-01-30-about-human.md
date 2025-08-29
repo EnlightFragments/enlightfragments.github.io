@@ -1,8 +1,7 @@
 
 ---
 title: About Human
-params:
-    date: Jan 30, 2021
+publishDate: 2021-01-30T00:00:00-00:00
 ---
 
  We aspire to perfection, which we have drawn for ourselves. We are a perfect idea, privileged to think that we are able to look inside ourselves from the outside perspective. We draw every path we can imagine. We get sucked into life-long competition, from start to finish. That’s when we lose sight of who we are, and the importance of our will. We choose to create our egos and identify with them. Then we inflate it as high as we can.

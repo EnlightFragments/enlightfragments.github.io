@@ -1,8 +1,7 @@
 
 ---
 title: Inspiration
-params:
-    date: Jul 9, 2022
+publishDate: 2022-07-09T00:00:00-00:00
 ---
 
  Moved not by desire to live, but desire to comprehend life. Drawing maps of the human mind. Questioning why and how the mental image of the world came to be as it is?

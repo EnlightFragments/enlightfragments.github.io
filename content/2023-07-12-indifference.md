@@ -1,8 +1,7 @@
 
 ---
 title: Indifference
-params:
-    date: Jul 12, 2023
+publishDate: 2023-07-12T00:00:00-00:00
 ---
 
 When silence tells more than words could ever say.

@@ -1,8 +1,7 @@
 
 ---
 title: Times of uncertainty
-params:
-    date: Sep 28, 2022
+publishDate: 2022-09-28T00:00:00-00:00
 ---
 
 Sometimes it's best to do nothing.

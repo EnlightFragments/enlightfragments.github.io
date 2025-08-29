@@ -1,8 +1,7 @@
 
 ---
 title: Mechanics
-params:
-    date: Apr 14, 2024
+publishDate: 2024-04-14T00:00:00-00:00
 ---
 
 We think via mechanics, but never notice it.

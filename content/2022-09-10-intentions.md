@@ -1,8 +1,7 @@
 
 ---
 title: Intentions
-params:
-    date: Sep 10, 2022
+publishDate: 2022-09-10T00:00:00-00:00
 ---
 
 Not every art has meaning, but it sure has intention.

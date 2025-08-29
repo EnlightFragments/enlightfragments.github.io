@@ -1,8 +1,7 @@
 
 ---
 title: Essence of Novelty
-params:
-    date: Dec 29, 2022
+publishDate: 2022-12-29T00:00:00-00:00
 ---
 
  Take something that has been known for centuries and present it as something novel to the ignorant.

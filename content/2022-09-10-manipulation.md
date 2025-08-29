@@ -1,8 +1,7 @@
 
 ---
 title: Manipulation
-params:
-    date: Sep 10, 2022
+publishDate: 2022-09-10T00:00:00-00:00
 ---
 
 This is a common strategy for gaining control:

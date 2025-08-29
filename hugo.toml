@@ -4,6 +4,12 @@ title = 'Enlight Fragments'
 
 disableKinds = ["taxonomy", "term"]
 
+[sitemap]
+  disable = true
+
 [taxonomies]
-    category = "categories"
-    tag = "tags"
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ['html', 'rss']

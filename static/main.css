@@ -199,7 +199,8 @@ a:hover {
 
 .footer-line {
   display: flex;
-  gap: 1rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
   min-width: 0;
 }
 

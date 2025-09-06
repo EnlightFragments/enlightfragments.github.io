@@ -1,6 +1,6 @@
 
 ---
-title: Realized in contrast
+title: Realized in Contrast
 publishDate: 2021-02-12T00:00:00-00:00
 ---
 

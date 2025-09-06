@@ -1,6 +1,6 @@
 
 ---
-title: The hardest problem
+title: The Hardest Problem
 publishDate: 2023-12-30T00:00:00-00:00
 ---
 

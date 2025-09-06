@@ -1,6 +1,6 @@
 
 ---
-title: Being a man
+title: Being a Man
 publishDate: 2022-09-28T00:00:00-00:00
 ---
 

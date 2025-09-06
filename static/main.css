@@ -182,31 +182,37 @@ a:hover {
   background: var(--color-bg-content);
 }
 
-.rss {
-  font-size: 16px;
-  display: block;
-  margin-inline-start: auto;
-}
-
-.rss-svg {
-  width: 12px;
-  height: 12px;
-}
-
 .site-footer .wrapper {
   flex-grow: 1;
 }
 
-.footer-line {
+.footer-content {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 1rem;
   min-width: 0;
 }
 
 .links {
   list-style: none;
-  margin-left: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.links a { 
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  text-align: middle;
+}
+
+.svg-web-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  bottom: 2px;
 }
 
 /** Page content */
@@ -244,7 +250,7 @@ a:hover {
 }
 
 .post-title {
-  margin-bottom: 14px;
+  margin-bottom: 20px;
   font-size: 24px;
   letter-spacing: -1px;
   line-height: 1;

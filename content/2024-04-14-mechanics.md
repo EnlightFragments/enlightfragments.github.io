@@ -52,3 +52,7 @@ before. Of course, there is master, because it won’t get shaped by itself."
 "There is an organism. It consists of lots of different parts which work together."
 
 Somehow all these make sense.
+
+Mechanics are not necessarily about objective knowledge, but rather about
+understanding, something that encompasses both rational and irrational, as well
+as subjective aspects.

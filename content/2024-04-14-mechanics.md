@@ -11,7 +11,8 @@ the owner. The owner posesses the right to make decisions about how to use the
 object of ownership."
 
 Mechanics of questions: "A question is a phrase that implies a response should
-be given in a form that clarifies the subject of the question."
+be given in a form that clarifies the subject of the question. It also assumes
+that the answer is unknown to the one who asks."
 
 Mechanics of problems: "A problem is an entity that prevents us from living the
 life we desire. Every problem implies that it has some kind of solution, which

@@ -6,7 +6,7 @@ publishDate: 2024-04-14T00:00:00-00:00
 
 We think via mechanics, but never notice it.
 
-Mechanics of ownership: "Every thing has a connection to someone, who we call
+Mechanics of ownership: "Everything has a connection to someone, who we call
 the owner. The owner posesses the right to make decisions about how to use the
 object of ownership."
 

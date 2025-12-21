@@ -1,6 +1,6 @@
 ---
 title: The Ritual of Counting Taxes
-publishDate: 2025-11-23T00:00:00-00:00
+publishDate: 2025-12-18T00:00:00-00:00
 ---
 
 It's not about the total amount. Institutions can handle it for you.

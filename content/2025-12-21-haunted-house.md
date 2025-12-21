@@ -1,6 +1,6 @@
 ---
 title: Haunted House
-publishDate: 2025-12-18T00:00:00-00:00
+publishDate: 2025-12-21T00:00:00-00:00
 ---
 
 Haunted house is a perfect property for those who are afraid of being alone.

@@ -1,6 +1,6 @@
 
 ---
-title: Being wrong
+title: Being Wrong
 publishDate: 2021-01-30T00:00:00-00:00
 ---
 

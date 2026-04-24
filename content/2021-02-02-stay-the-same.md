@@ -1,6 +1,6 @@
 
 ---
-title: Stay the same
+title: Stay The Same
 publishDate: 2021-02-02T00:00:00-00:00
 ---
 

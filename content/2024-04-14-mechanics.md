@@ -24,8 +24,6 @@ Despite how obvious these mechanics are, they often go unnoticed. But when
 declared explicitly, is raises questions about whether the foundation of human
 thought can be something more than just adaptation to survive.
 
-Lets continue.
-
 Adaptation is also one of the mechanics: "Adaptation is a process of keeping an
 organism from being degraded in changing conditions in order to sustain its
 ability to live. This implies that the environment and the individual are

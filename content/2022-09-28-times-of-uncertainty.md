@@ -1,6 +1,6 @@
 
 ---
-title: Times of uncertainty
+title: Times of Uncertainty
 publishDate: 2022-09-28T00:00:00-00:00
 ---
 

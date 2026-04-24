@@ -1,6 +1,6 @@
 
 ---
-title: Lucky to be alive
+title: Lucky to Be Alive
 publishDate: 2022-10-30T00:00:00-00:00
 ---
 

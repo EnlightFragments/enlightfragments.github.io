@@ -1,6 +1,6 @@
 
 ---
-title: The location of mind
+title: The Location of Mind
 publishDate: 2021-01-30T00:00:00-00:00
 ---
 
